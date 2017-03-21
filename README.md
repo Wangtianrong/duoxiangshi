@@ -1,5 +1,5 @@
 # duoxiangshi
-include<stdio.h>
+#include<stdio.h>
 //typedef struct Node* List;
 typedef struct  {
 	int zhishu;
